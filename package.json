@@ -1,6 +1,6 @@
 {
   "name": "@copypastachef/default-token-list",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "◦ The Venomswap default token list",
   "main": "build/copypastachef-default.tokenlist.json",
   "scripts": {

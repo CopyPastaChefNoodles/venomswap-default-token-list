@@ -17,14 +17,6 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
-    "symbol": "VIPER",
-    "name": "Viper",
-    "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
     "symbol": "1USDT",
     "name": "Tether USD",
@@ -81,22 +73,6 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xFd2a8F8cF7CFFeA4a613F1DFf39b22881D4a1f92",
-    "symbol": "1ROT",
-    "name": "RottenToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xBfD4F1699b83eDBa1106B6E224b7aC599A40be1F",
-    "symbol": "1MAGGOT",
-    "name": "MaggotToken",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MAGGOT.png"
-  },
-  {
-    "chainId": 1666600000,
     "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
     "symbol": "1WISE",
     "name": "Wise Token",
@@ -110,38 +86,6 @@
     "name": "DSLA",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1DSLA.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
-    "symbol": "1AAVE",
-    "name": "Aave Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1AAVE.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
-    "symbol": "1SNX",
-    "name": "Synthetix Network Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1SNX.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
-    "symbol": "1YFI",
-    "name": "yearn.finance",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1YFI.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
-    "symbol": "11INCH",
-    "name": "1INCH Token",
-    "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/11INCH.png"
   },
   {
     "chainId": 1666600000,
