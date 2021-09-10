@@ -41,10 +41,10 @@
   },
   {
     "chainId": 1666700000,
-    "address": "0x4945C2279CA5ec6fDB7321601b364a154605A3cD",
+    "address": "0x89327707E2DB5222Bcb7a4Bc11Ee9bf97c3aEee8",
     "symbol": "PASTA",
     "name": "CopyPasta",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/PASTA.png"
+    "logoURI": "https://copypasta.one/public/copypasta/tokens/PASTA.png"
   }
 ]
