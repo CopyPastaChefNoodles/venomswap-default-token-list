@@ -38,5 +38,13 @@
     "name": "OneChainlink",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x4945C2279CA5ec6fDB7321601b364a154605A3cD",
+    "symbol": "PASTA",
+    "name": "CopyPasta",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/PASTA.png"
   }
 ]
