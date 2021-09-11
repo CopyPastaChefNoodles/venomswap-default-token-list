@@ -9,6 +9,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x5903720f0132E8bd48530010d9b3192B25F51D8e",
+    "symbol": "PASTA",
+    "name": "CopyPasta",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/public/copypasta/tokens/PASTA.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
     "symbol": "BUSD",
     "name": "Binance USD",
