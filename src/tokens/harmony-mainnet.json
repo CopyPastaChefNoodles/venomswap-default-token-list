@@ -166,5 +166,13 @@
     "name": "xPASTA",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/xPASTA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x70831eE5F8A0434BD2dDB1e45ED24cBca8B41fec",
+    "symbol": "BABYJEWEL",
+    "name": "BABYJEWEL",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/BABYJEWEL.png"
   }
 ]
