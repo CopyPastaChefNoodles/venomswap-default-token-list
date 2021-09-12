@@ -45,6 +45,14 @@
     "symbol": "PASTA",
     "name": "CopyPasta",
     "decimals": 18,
-    "logoURI": "https://copypasta.one/public/copypasta/tokens/PASTA.png"
+    "logoURI": "https://copypasta.one/copypasta/tokens/PASTA.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x0Cb1f68207d2be75fb478c67b0047282891Cb432",
+    "symbol": "xPASTA",
+    "name": "xPASTA",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/xPASTA.png"
   }
 ]

@@ -13,7 +13,7 @@
     "symbol": "PASTA",
     "name": "CopyPasta",
     "decimals": 18,
-    "logoURI": "https://copypasta.one/public/copypasta/tokens/PASTA.png"
+    "logoURI": "https://copypasta.one/copypasta/tokens/PASTA.png"
   },
   {
     "chainId": 1666600000,
@@ -158,5 +158,13 @@
     "name": "Freyala",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x0485c47FBfDee263bF88329cb3e37dDD948bdFf6",
+    "symbol": "xPASTA",
+    "name": "xPASTA",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/xPASTA.png"
   }
 ]
