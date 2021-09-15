@@ -174,5 +174,13 @@
     "name": "BABYJEWEL",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/BABYJEWEL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xab965375C9c109b8e1a4c4f7422B199EE36682B0",
+    "symbol": "$LIFE",
+    "name": "Extra Life",
+    "decimals": 18,
+    "logoURI": "https://legacy.lootswap.finance/tokens/$LIFE.png"
   }
 ]
