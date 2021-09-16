@@ -188,7 +188,7 @@
     "address": "0xf9F0724cEB8671390bc422003628cB230d513702",
     "symbol": "RAVE",
     "name": "RAVE",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://copypasta.one/copypasta/tokens/RAVE.png"
   },
   {
@@ -220,7 +220,7 @@
     "address": "0x6008C8769BFACd92251bA838382e7e5637C7e74D",
     "symbol": "COSMIC",
     "name": "Cosmic Coin",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://legacy.lootswap.finance/tokens/COSMIC.png"
   }
 ]
