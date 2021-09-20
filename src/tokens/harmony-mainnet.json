@@ -246,5 +246,53 @@
     "name": "Wine",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/WINE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x24b6179E4062ED9BAEacE0E6081Dbd55B6072380",
+    "symbol": "FLOKI",
+    "name": "FlokiONE",
+    "decimals": 9,
+    "logoURI": "https://copypasta.one/copypasta/tokens/FLOKI.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
+    "symbol": "IKURA",
+    "name": "IKURA",
+    "decimals": 9,
+    "logoURI": "https://copypasta.one/copypasta/tokens/IKURA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5305D2fcfc9981c4518C498194Df493968D1D822",
+    "symbol": "FRATE",
+    "name": "Fraterium",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x02b9e2fd47b75749161D5225c6f41e9BD292196D",
+    "symbol": "aPASTA",
+    "name": "AntiPASTA",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/aPASTA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x4c1d614D21e354B1c407dFB8B171Adc72f0DB127",
+    "symbol": "$RBOA",
+    "name": "ReBOA",
+    "decimals": 9,
+    "logoURI": "https://copypasta.one/copypasta/tokens/$RBOA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xaDc1a3ef6FcDF44991b904FFfA193cEC58556e43",
+    "symbol": "CALL",
+    "name": "SIRENS",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/CALL.png"
   }
 ]
