@@ -222,5 +222,29 @@
     "name": "Cosmic Coin",
     "decimals": 9,
     "logoURI": "https://legacy.lootswap.finance/tokens/COSMIC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x36c590664984825b71bFa1C4a68185E0D9C5912F",
+    "symbol": "MBALL",
+    "name": "Meatball",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/MBALL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd8c3445E565F2A5f4118EFDC630f320699a7eED6",
+    "symbol": "FLAMBE",
+    "name": "Flambe",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/FLAMBE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x69B8BAF07a05DB9aAc40d4411B899818cEdCA2E6",
+    "symbol": "WINE",
+    "name": "Wine",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/WINE.png"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "name": "@copypastachef/default-token-list",
-  "version": "3.0.8",
-  "description": "◦ The Venomswap default token list",
+  "version": "3.0.9",
+  "description": "◦ The Pasta default token list",
   "main": "build/copypastachef-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -13,20 +13,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VenomProtocol/venomswap-default-token-list.git"
+    "url": "git+https://github.com/VenomProtocol/copypastachef-default-token-list.git"
   },
   "keywords": [
-    "venomswap",
+    "pasta",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "ChefPasta",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-default-token-list/issues"
+    "url": "https://github.com/VenomProtocol/copypastachef-default-token-list/issues"
   },
-  "homepage": "https://github.com/VenomProtocol/venomswap-default-token-list#readme",
+  "homepage": "https://github.com/VenomProtocol/copypastachef-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
