@@ -294,5 +294,21 @@
     "name": "SIRENS",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/CALL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd009b07B4a65CC769379875Edc279961D710362d",
+    "symbol": "RAIN",
+    "name": "Rain Token",
+    "decimals": 18,
+    "logoURI": "https://www.rainfinance.one/images/egg/9.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
+    "symbol": "SONIC",
+    "name": "Sonic",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/SONIC.png"
   }
 ]

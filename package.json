@@ -1,6 +1,6 @@
 {
   "name": "@copypastachef/default-token-list",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "◦ The Pasta default token list",
   "main": "build/copypastachef-default.tokenlist.json",
   "scripts": {
