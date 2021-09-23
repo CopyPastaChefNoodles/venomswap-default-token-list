@@ -310,5 +310,13 @@
     "name": "Sonic",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/SONIC.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x74a03C06872945CF760E06B883C93dE3d126eB97",
+    "symbol": "CHEESE",
+    "name": "CheeseBistro",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/CHEESE.png"
   }
 ]
