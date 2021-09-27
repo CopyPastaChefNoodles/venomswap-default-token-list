@@ -318,5 +318,13 @@
     "name": "CheeseBistro",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/CHEESE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x739d4Cc8C0e67b935038E09c4b2263929f9a6bA4",
+    "symbol": "Dash",
+    "name": "DoorDash",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/DASH.png"
   }
 ]
