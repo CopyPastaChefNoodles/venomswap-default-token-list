@@ -348,7 +348,7 @@
     "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
     "symbol": "fRENT",
     "name": "Fraterium Rent",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://copypasta.one/copypasta/tokens/fRENT.png"
   }
 ]
