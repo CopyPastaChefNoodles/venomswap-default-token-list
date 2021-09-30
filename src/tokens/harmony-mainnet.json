@@ -326,5 +326,29 @@
     "name": "DoorDash",
     "decimals": 18,
     "logoURI": "https://copypasta.one/copypasta/tokens/DASH.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "symbol": "JEWEL",
+    "name": "Jewels",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/JEWEL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x54b3cc870576b2059f464929aE52196719631EaC",
+    "symbol": "SEAHORSE",
+    "name": "Seahorse",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/SEAHORSE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x52274a3aF646153faB00b8605E1F6F7072ce71F3",
+    "symbol": "fRENT",
+    "name": "Fraterium Rent",
+    "decimals": 18,
+    "logoURI": "https://copypasta.one/copypasta/tokens/fRENT.png"
   }
 ]
